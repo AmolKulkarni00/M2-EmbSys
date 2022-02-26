@@ -41,20 +41,20 @@ As the world is evolving rapidly in the technological field, the idea to make a 
 
 | ID | High Level Requirements |
 |---------- | --------------- |
-| HL1 | System should control vaccancy of parking lot |
-| HL2 | There should be interface |
-| HL3 | Motorspeed is controlled |
-| HL4 | System should detect the number of vehicles and vacancy |
+| HL1 | System shall control vaccancy of parking lot |
+| HL2 | There shall be an interface |
+| HL3 | Motorspeed shall be controlled |
+| HL4 | System shall detect the number of vehicles and vacancy |
 
 ## Low Level Requirements
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ID | Low Level Requirements |
 |---------- | --------------- |
-| HL1 | Based on the requirement of user vaccancy should be known |
-| HL2 | Based on the no of vehicle vaccancy can be determined |
-| HL3 | If the vechile is present the light should be on |
-| HL4 | Number of vechile present displayed on screen | 
+| HL1 | Based on the requirement of user vaccancy shall be known |
+| HL2 | Based on the no of vehicle vaccancy shall be determined |
+| HL3 | If the vechile is present the light shall be on |
+| HL4 | Number of vechile present shall be displayed on screen | 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Best Method followed 
