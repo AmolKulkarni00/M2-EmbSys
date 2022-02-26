@@ -53,5 +53,12 @@ As the world is evolving rapidly in the technological field, the idea to make a 
 | HL1 | Based on the requirement of user vaccancy should be known |
 | HL2 | Based on the no of vehicle vaccancy can be determined |
 | HL3 | If the vechile is present the light should be on |
-| HL4 | Number of vechile present displayed on screen |
+| HL4 | Number of vechile present displayed on screen | 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Best Method followed 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+* Drivers find a free parking space faster, which reduces congestion and various other negative externalities.
+* The smart parking system with guidance to a free parking space can improve the traffic situation in cities.
+* Providing better control for consumers, businesses, and law enforcement representatives 
 
