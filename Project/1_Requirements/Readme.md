@@ -10,7 +10,8 @@ One of the main goal of Smart Parking is to reduce the time taken and the hassle
 ### Identifying Features
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Easisly visible of a free parking space.
-* If any vehicle is in that parking space, it is indicated by a Light.
+* If any vehicle is in that parking space, it is indicated by a Light. 
+* It gives an aggregate measure of how effectively the parking space is utilized. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
