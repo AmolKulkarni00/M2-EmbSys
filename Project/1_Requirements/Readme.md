@@ -12,7 +12,7 @@ One of the main goal of Smart Parking is to reduce the time taken and the hassle
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### State of art/ Research
+### State of art / Research
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 As the world is evolving rapidly in the technological field, the idea to make a city as Smart City is getting closer. That's where this Smart Parking system comes into the picture. A smart parking is a technology that is based on Ultrasonic sensors. It helps to nagivate a parking space to find an empty space or a filled space with a help of the technology.
@@ -35,7 +35,7 @@ As the world is evolving rapidly in the technological field, the idea to make a 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-### High Level Requirements
+## High Level Requirements
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 | ID | High Level Requirements |
@@ -45,7 +45,7 @@ As the world is evolving rapidly in the technological field, the idea to make a 
 | HL3 | Motorspeed is controlled |
 | HL4 | System should detect the number of vehicles and vacancy |
 
-# Low Level Requirements
+## Low Level Requirements
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ID | Low Level Requirements |
