@@ -1,38 +1,38 @@
-# Smart Parking System
+# Smart Water Purity System
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## Description
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-One of the main goal of Smart Parking is to reduce the time taken and the hassle factor of locating an available parking space. It can be frustrating, especially at peak times, driving around town looking for available spaces. Smart Parking creates the possibility of new business models that are only made possible using technology. 
+Water is the source of life for the humans. The quality of the water is very important, as it will affect the human life's. The water purity is something which this project is based on. The Smart Water Purity System, shows the amount of water that is pure and impure. Through this we can know the purity of any water that is avaliable.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Identifying Features
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Easisly visible of a free parking space.
-* If any vehicle is in that parking space, it is indicated by a Light. 
-* It gives an aggregate measure of how effectively the parking space is utilized. 
+* The purity of the water.
+* The impurity of the water.
+* The percentage of of Pure and Impure in the Water.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### State of art / Research
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-As the world is evolving rapidly in the technological field, the idea to make a city as Smart City is getting closer. That's where this Smart Parking system comes into the picture. A smart parking is a technology that is based on Ultrasonic sensors. It helps to nagivate a parking space to find an empty space or a filled space with a help of the technology.
+Pollution of water is one of the main threats in recent times as drinking water is getting contaminated and polluted. To make certain the supply of pure water, the quality of the water should be examined first. Smart solutions for monitoring of water purity are getting more and more significant these days with innovation in sensors, communication, and Internet of Things (IoT) technology. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 5 W's 1 H
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![5W1H Chart (1)](https://user-images.githubusercontent.com/98872937/155831346-b98016ef-c1bf-4b0a-a3b8-c0fe93a9b5ce.jpg) 
+![5W 1H](https://user-images.githubusercontent.com/98872937/157225727-55c6979f-b698-4b78-9c26-e712762bf092.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## SWOT Analysis
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![SWOT Analysis](https://user-images.githubusercontent.com/98872937/155833721-db32d061-3177-410b-b67c-3c6334df6112.jpg) 
+![SWOT Analysis](https://user-images.githubusercontent.com/98872937/157233492-eae5496b-7d60-4185-89db-af6ecd9c0f89.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -41,27 +41,25 @@ As the world is evolving rapidly in the technological field, the idea to make a 
 
 | ID | High Level Requirements |
 |---------- | --------------- |
-| HL1 | System shall control vaccancy of parking lot |
-| HL2 | There shall be an interface |
-| HL3 | Motorspeed shall be controlled |
-| HL4 | System shall detect the number of vehicles and vacancy |
+| HL1 | The purity of water shall be found |
+| HL2 | The impure percentage of water shall be found |
+| HL3 | System shall detect the amount of drinkable water |
+| HL4 | The system shall display both Pure and Impure Water |
 
 ## Low Level Requirements
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | ID | Low Level Requirements |
 |---------- | --------------- |
-| HL1 | Based on the requirement of user vaccancy shall be known |
-| HL2 | Based on the no of vehicle vaccancy shall be determined |
-| HL3 | If the vechile is present the light shall be on |
-| HL4 | Number of vechile present shall be displayed on screen | 
+| LL1 | The amount of water that is good |
+| LL2 | Based on good water the bad water is calculated |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Best Method followed 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-* Drivers find a free parking space faster, which reduces congestion and various other negative externalities.
-* The smart parking system with guidance to a free parking space can improve the traffic situation in cities.
-* Providing better control for consumers, businesses, and law enforcement representatives. 
+* The people will find out the purity of water that they use in everyday life.
+* The impure water could then be sent for purification. 
+* The amount of pure water in our day to day life.
 
 
 
