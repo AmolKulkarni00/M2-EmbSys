@@ -6,9 +6,9 @@ M2-EmbSys
 
 Badges
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| CppCheck | Unit Test |
-|----------|-----------|
-| [![Cppcheck](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml) | [![Unit Test](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Unit-test.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Unit-test.yml) |
+| CppCheck | Unit Test | Dynamic Test | Build |
+|----------|-----------|--------------|-------|
+| [![Cppcheck](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml) | [![Unit Test](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Unit-test.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Unit-test.yml) | [![Dynamic Test](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Dynamic-test.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Dynamic-test.yml) | [![C/C++](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Build.yml) | 
 
 Codiga Badges
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
