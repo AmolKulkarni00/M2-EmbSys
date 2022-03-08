@@ -1,4 +1,5 @@
-name: Unit Test
+
+name: C/C++ CI
 
 on:
   push:
@@ -7,11 +8,11 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: make build_test
-      run: make build_test - Project/3_Implementation
+    - name: make
+      run: make /home/runner/work/M2-EmbSys/M2-EmbSys/3_Implementation
