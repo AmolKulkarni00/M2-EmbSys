@@ -6,11 +6,11 @@ Applications
 Water suppliers and utilities need to ensure the supply of the high purity water that the consumers can use for drinking and other purposes. 
 By implementing this project, the utilities can monitor the quality of the distributed water in overhead tanks and even in pipelines. 
 
-### Agriculture:
+### Agriculture
 
 Optimum water quality is a pre-requisite for high yield of crop production. Based on the crop to be cultivated, the sensors and probes can be used to identify impurities that can hamper its growth. This will help farmers to enhance their irrigation practices and ensure a high yield of healthy crops.
 
-### Manufacturing Units:
+### Manufacturing Units
 
 Production and manufacturing-based companies often discharge chemicals and other harmful fluids in rivers. Strict regulations are hence imposed on them to make sure that no harm is made to the aquatic life. Factories can hence use real-time water purity system to make sure that compliance is conformed as per the imposed regulations.
 
