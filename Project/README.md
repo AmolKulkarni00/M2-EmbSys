@@ -3,9 +3,9 @@
 
 Badges
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| CppCheck |
-|----------|
-| [![Cppcheck](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml) | 
+| CppCheck | Unit Test |
+|----------|-----------|
+| [![Cppcheck](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/c-cpp.yml) | [![Unit Test](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/AmolKulkarni00/M2-EmbSys/actions/workflows/Unit.yml) |
 
 Codiga Badges
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
