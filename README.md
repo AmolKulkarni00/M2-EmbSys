@@ -39,7 +39,9 @@ Folder Description
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | Folder Name | Description |
-|-------------|-------------|  
+|-------------|-------------| 
+| Case Study | It consists of two case studies |
+| Project | Smart Water Purity System |
 | 1_Requirements | Detailed documents of high and low level requirements |
 | 2_Architecture | Design such as Structural and Flowchart diagram of project |
 | 3_Implementation | The code files of the project |
