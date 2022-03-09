@@ -52,6 +52,10 @@ Flowchart
 
 ![Flowchart](https://user-images.githubusercontent.com/98872937/157205724-60a6339e-1189-4457-b37d-00daa75069ae.jpg) 
 
+Structural Diagram
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+![Structural Diagram](https://user-images.githubusercontent.com/98872937/157379613-ce636c69-ce1b-42a2-a24d-63c708edf79d.jpg) 
 
 
 
